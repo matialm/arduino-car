@@ -65,7 +65,7 @@ void get_next_movement() {
     return;
   }
 
-  Serial.println("atras");
+  Serial.println("forward");
   return;
 }
 
