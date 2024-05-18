@@ -2,5 +2,4 @@
 a car with arduino
 
 ## Getting Started
-Arduino IDE:
-https://www.arduino.cc/en/software
+* Arduino IDE: https://www.arduino.cc/en/software
